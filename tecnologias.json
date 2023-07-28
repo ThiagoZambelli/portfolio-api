@@ -1,0 +1,58 @@
+[
+    {
+        "nome":"JavaScript",
+        "titulo":"O Encantador dos Navegadores",
+        "descricao":"JavaScript, a linguagem que adiciona magia às páginas web! Com seus feitiços interativos e dinâmicos, ele é capaz de envolver os usuários em uma experiência hipnotizante. É como se cada clique fosse um truque surpreendente, criando uma jornada única por cada site. /n JavaScript é uma linguagem de programação de alto nível, leve e interpretada. Ela é amplamente utilizada para desenvolvimento front-end e back-end em aplicações web. Sua sintaxe flexível e dinâmica permite a criação de páginas web interativas e dinâmicas, possibilitando a manipulação do DOM e a interação com o usuário. Além disso, com o uso de bibliotecas e frameworks populares como React e Angular, JavaScript se tornou uma escolha poderosa para o desenvolvimento de aplicativos web modernos.",
+        "corBase":"#f0db4f",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+    },
+    {
+        "nome":"TypeScript",
+        "titulo":"O Guardião das Tipagens",
+        "descricao":"TypeScript, o companheiro fiel do JavaScript! Com sua tipagem estática, ele traz ordem e precisão ao código, oferecendo uma sensação de segurança para os desenvolvedores. Sua habilidade única de detectar erros antes mesmo de acontecerem o torna um protetor confiável nas batalhas de programação. /n TypeScript é uma linguagem de programação desenvolvida pela Microsoft que adiciona tipagem estática ao JavaScript. Ela é compatível com a sintaxe do JavaScript, mas permite a definição de tipos para variáveis, parâmetros de função e objetos. Isso traz uma camada adicional de segurança ao código, ajudando a detectar erros em tempo de compilação e melhorando a produtividade dos desenvolvedores. TypeScript é frequentemente usado em projetos grandes e complexos, proporcionando uma base sólida para aplicações escaláveis e de fácil manutenção.",
+        "corBase":"#3178c6",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+    },
+    {
+        "nome":"Node.js",
+        "titulo":"O Mago dos Servidores",
+        "descricao":"Node.js, o mago poderoso por trás dos servidores! Com seus feitiços não bloqueantes e orientados a eventos, ele é capaz de criar aplicativos em tempo real, proporcionando uma experiência incrível para os usuários. Sua magia permeia todo o ambiente do servidor, concedendo aos desenvolvedores o poder de criar aplicações escaláveis e de alto desempenho. /n Node.js é um ambiente de tempo de execução JavaScript construído sobre o motor V8 do Chrome. Ele permite a execução de código JavaScript no servidor, tornando possível a criação de aplicações em tempo real e de alto desempenho. Node.js utiliza um modelo não bloqueante e orientado a eventos, o que o torna ideal para aplicações com muitas conexões simultâneas. Além disso, ele possui um vasto ecossistema de módulos e bibliotecas, permitindo que os desenvolvedores construam aplicações robustas e escaláveis.",
+        "corBase":"#68a063",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+    },
+    {
+        "nome":"MongoDB",
+        "titulo":"O Arquiteto dos Dados sem Esquema",
+        "descricao":"MongoDB, o arquiteto ousado dos bancos de dados! Com sua habilidade de armazenar dados de forma flexível, sem esquemas rígidos, ele permite que os desenvolvedores criem aplicações adaptáveis e ágeis. É como se cada dado se encaixasse naturalmente no lugar, criando uma experiência única e cativante para os usuários./n MongoDB é um banco de dados NoSQL orientado a documentos, o que significa que armazena os dados em formato JSON-like, tornando-o flexível e escalável. Ele é especialmente adequado para aplicações com esquemas dinâmicos ou em constante mudança. Além disso, MongoDB oferece alta disponibilidade e replicação automática para garantir a confiabilidade dos dados. Com sua simplicidade e desempenho, MongoDB é amplamente utilizado em aplicações web modernas para armazenamento e recuperação de dados.",
+        "corBase":"#589636",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+    },
+    {
+        "nome":"React JS",
+        "titulo":"O Feiticeiro das Interfaces",
+        "descricao":"React JS, o feiticeiro mágico das interfaces! Com sua habilidade de criar componentes reutilizáveis, ele é capaz de conjurar interfaces deslumbrantes e interativas. Cada componente é como um feitiço, transformando a aparência do site e envolvendo os usuários em uma experiência encantadora. /n React JS é uma biblioteca JavaScript de código aberto desenvolvida pelo Facebook. Ela é usada para criar interfaces de usuário reativas e reutilizáveis para aplicações web. React utiliza componentes reutilizáveis que encapsulam a lógica e a apresentação, permitindo a criação de interfaces declarativas e fáceis de manter. Com a sua abordagem de renderização virtual, React oferece alto desempenho e eficiência, tornando-o uma escolha popular para o desenvolvimento de aplicações web interativas e responsivas.",
+        "corBase":"#61dafb",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+    },
+    {
+        "nome":"GitHub",
+        "titulo":"O Santuário da Colaboração",
+        "descricao":"GitHub, o santuário sagrado para desenvolvedores! É aqui que as mentes brilhantes se reúnem para compartilhar conhecimento e colaborar em projetos de código aberto. Cada repositório é como um livro de feitiços, repleto de soluções mágicas para problemas do mundo real. /n GitHub é uma plataforma de hospedagem de código-fonte e colaboração para desenvolvedores. Ele permite que os desenvolvedores compartilhem e colaborem em projetos de código aberto, facilitando o controle de versões e a revisão de código. Com recursos avançados de controle de acesso, integração com ferramentas de desenvolvimento e fluxos de trabalho de colaboração, GitHub se tornou um ambiente essencial para o desenvolvimento de software em equipe.",
+        "corBase":"#4078c0",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+    },
+    {
+        "nome":"CSS 3",
+        "titulo":"O Pintor das Páginas Web",
+        "descricao":"CSS 3, o talentoso pintor de páginas web! Com suas pinceladas em cascata, ele colore e dá vida ao HTML, criando um visual deslumbrante para os usuários. Cada estilo é como uma obra de arte única, tornando cada página uma verdadeira expressão artística. /n CSS 3 é a terceira versão das Folhas de Estilo em Cascata, utilizadas para estilizar páginas web. Ele traz recursos avançados para controlar a aparência e o layout dos elementos HTML, permitindo a criação de designs responsivos e atraentes. Com suas propriedades flexíveis e capacidades de animação, CSS 3 possibilita a criação de interfaces de usuário modernas e envolventes.",
+        "corBase":"#264de4",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
+    },
+    {
+        "nome":"HTML 5",
+        "titulo":"O Alicerce das Páginas Web",
+        "descricao":"HTML 5, o alicerce sólido que sustenta todas as páginas web! Com suas tags semânticas e recursos modernos, ele é capaz de dar estrutura e forma ao conteúdo, criando uma experiência de usuário envolvente. Cada página é como um mundo único, pronto para ser explorado e desfrutado. /n HTML 5 é a quinta versão da Linguagem de Marcação de Hipertexto, usada para estruturar o conteúdo das páginas web. Ele traz recursos avançados, como tags semânticas e elementos de áudio e vídeo integrados, tornando possível criar páginas web interativas e ricas em mídia. Com sua compatibilidade com dispositivos móveis e recursos de acessibilidade, HTML 5 é a base sólida para criar experiências de usuário acessíveis e modernas na web.",
+        "corBase":"#e34c26",
+        "imagem":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    }
+]

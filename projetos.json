@@ -1,0 +1,199 @@
+[
+    {
+        "nome": "7DaysOfCode-HTML-CSS",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/7DaysOfCode-HTML-CSS",
+        "deploy": "",
+        "numero": 1
+    },
+    {
+        "nome": "algoritmos-com-javascript-ordenacao-e-busca",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/algoritmos-com-javascript-ordenacao-e-busca",
+        "deploy": "",
+        "numero": 2
+    },
+    {
+        "nome": "Challenge-Front-End",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/Challenge-Front-End",
+        "deploy": "",
+        "numero": 3
+    },
+    {
+        "nome": "db-zambelli-apps",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/db-zambelli-apps",
+        "deploy": "https://db-zambelli-apps.vercel.app/",
+        "numero": 4
+    },
+    {
+        "nome": "Fantoches_Vivos",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/Fantoches_Vivos",
+        "deploy": "",
+        "numero": 5
+    },
+    {
+        "nome": "goblin-caolho",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/goblin-caolho",
+        "deploy": "https://goblin-caolho-i7c2cm7vu-thiagozambelli.vercel.app/",
+        "numero": 6
+    },
+    {
+        "nome": "goblin-caolho-server",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/goblin-caolho-server",
+        "deploy": "",
+        "numero": 7
+    },
+    {
+        "nome": "instabook",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/instabook",
+        "deploy": "",
+        "numero": 8
+    },
+    {
+        "nome": "InstaBook-Prototipo-CSS-HTML-JS",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/InstaBook-Prototipo-CSS-HTML-JS",
+        "deploy": "",
+        "numero": 9
+    },
+    {
+        "nome": "instabook-react",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/instabook-react",
+        "deploy": "",
+        "numero": 10
+    },
+    {
+        "nome": "InstaBooK__segundaVersao",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/InstaBooK__segundaVersao",
+        "deploy": "",
+        "numero": 11
+    },
+    {
+        "nome": "integrando-seu-projeto-react-com-apis",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/integrando-seu-projeto-react-com-apis",
+        "deploy": "",
+        "numero": 12
+    },
+    {
+        "nome": "JavaScript--validando-formul-rios-Alura",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/JavaScript--validando-formul-rios-Alura",
+        "deploy": "",
+        "numero": 13
+    },
+    {
+        "nome": "JavaScript-consumindo-e-tratando-dados-de-uma-API",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/JavaScript-consumindo-e-tratando-dados-de-uma-API",
+        "deploy": "",
+        "numero": 14
+    },
+    {
+        "nome": "JavaScript-criando-requisi-es",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/JavaScript-criando-requisi-es",
+        "deploy": "",
+        "numero": 15
+    },
+    {
+        "nome": "JavaScript-m-todos-de-array",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/JavaScript-m-todos-de-array",
+        "deploy": "",
+        "numero": 16
+    },
+    {
+        "nome": "JavaScript-manipulando-o-DOM",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/JavaScript-manipulando-o-DOM",
+        "deploy": "",
+        "numero": 17
+    },
+    {
+        "nome": "JavaScript-na-Web-armazenando-dados-no-navegador",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/JavaScript-na-Web-armazenando-dados-no-navegador",
+        "deploy": "",
+        "numero": 18
+    },
+    {
+        "nome": "javascript-programacao-orientada-a-objetos",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/javascript-programacao-orientada-a-objetos",
+        "deploy": "",
+        "numero": 19
+    },
+    {
+        "nome": "lithtlez-api",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/lithtlez-api",
+        "deploy": "",
+        "numero": 20
+    },
+    {
+        "nome": "lithtlez-ds",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/lithtlez-ds",
+        "deploy": "",
+        "numero": 21
+    },
+    {
+        "nome": "meu-portfolio",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/meu-portfolio",
+        "deploy": "https://meu-portfolio-neon-nu.vercel.app/",
+        "numero": 22
+    },
+    {
+        "nome": "migrando-para-typescript",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/migrando-para-typescript",
+        "deploy": "",
+        "numero": 23
+    },
+    {
+        "nome": "MobileFirst-Alura",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/MobileFirst-Alura",
+        "deploy": "",
+        "numero": 24
+    },
+    {
+        "nome": "Modo-noturno",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/Modo-noturno",
+        "deploy": "https://modo-noturno-git-main-thiagozambelli.vercel.app/",
+        "numero": 25
+    },
+    {
+        "nome": "node.js-criando-sua-primeira-biblioteca",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/node.js-criando-sua-primeira-biblioteca",
+        "deploy": "",
+        "numero": 26
+    },
+    {
+        "nome": "novo-projeto-solo-react-ts",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/novo-projeto-solo-react-ts",
+        "deploy": "https://novo-projeto-solo-react-ts.vercel.app/",
+        "numero": 27
+    },
+    {
+        "nome": "Portifolio",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/Portifolio",
+        "deploy": "",
+        "numero": 28
+    },
+    {
+        "nome": "praticando-react",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/praticando-react",
+        "deploy": "https://praticando-react-lake.vercel.app/",
+        "numero": 29
+    },
+    {
+        "nome": "praticando-react-api",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/praticando-react-api",
+        "deploy": "",
+        "numero": 30
+    },
+    {
+        "nome": "sorteador-para-casais",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/sorteador-para-casais",
+        "deploy": "https://sorteador-para-casais.vercel.app/",
+        "numero": 31
+    },
+    {
+        "nome": "java-script-na-web-armazenando-dados-no-navegador",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/java-script-na-web-armazenando-dados-no-navegador",
+        "deploy": "https://java-script-na-web-armazenando-dados-no-navegador.vercel.app/",
+        "numero": 32
+    },{
+        "nome": "projeto-numero-secreto",
+        "linkRepositorio": "https://github.com/ThiagoZambelli/projeto-numero-secreto",
+        "deploy": "https://projeto-numero-secreto-three.vercel.app/",
+        "numero": 33
+    }
+]
