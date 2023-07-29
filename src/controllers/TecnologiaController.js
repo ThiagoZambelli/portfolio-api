@@ -13,7 +13,17 @@ class TecnologiaController {
     } catch (err) {
       next(err);
     }
-  }; 
+  };
+  static cadastrarTecnologia = async (req, res, next) => {
+    const tecnologia = new Tecnologia(req.body);
+    try{
+      await tecnologia.save();
+      res.status(201).send({menssage:"Cadastro realizado com sucesso!"});
+    }
+    catch(err){
+      next(err);
+    }
+  };
 
 }
 

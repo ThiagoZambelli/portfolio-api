@@ -14,6 +14,16 @@ class ProjetoController {
       next(err);
     }
   };
+  static cadastrarProjeto = async (req, res, next) => {
+    const projeto = new Projeto(req.body);
+    try {
+      await projeto.save();
+      res.status(201).send({ message: "Projeto cadastrado com sucesso!" });
+    }
+    catch (err) {
+      next(err);
+    }
+  };
 
 }
 
