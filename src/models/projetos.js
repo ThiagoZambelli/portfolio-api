@@ -4,9 +4,10 @@ import mongoose from "mongoose";
 const projetoSchema = new mongoose.Schema(
   {
     id: { type: String },
-    linkRepositorio: { type: String, required: [true, "O nome é obrigatório"] },
+    nome: { type: String, required: [true, "O nome é obrigatório"] },
+    linkRepositorio: { type: String, required: [true, "O repositorio é obrigatório"] },
     deploy: { type: String },
-    numero: { type: String, required: [true, "Falta o numero"] }
+    numero: { type: Number, required: [true, "Falta o numero"] }
   }
 );
 

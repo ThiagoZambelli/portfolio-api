@@ -1,5 +1,5 @@
 // O controller e responsavel por criar os metodos executados
-
+// import lista from "../../projetos.json" assert { type: 'json' };
 // importação do model, responsavel pela criação do modelo e da coneção com o arquivo não relacional expecifico
 import { Projeto } from "../models/index.js";
 
@@ -24,6 +24,20 @@ class ProjetoController {
       next(err);
     }
   };
+  // static cadastrarListaDeProjetos = async (req, res, next) => {
+
+  //   try{
+  //     lista.map(e => {
+  //       const projeto = new Projeto(e);
+  //       if(projeto.deploy !== ""){
+  //         projeto.save();
+  //       }
+  //     });
+  //   }
+  //   catch(err){
+  //     next(err);
+  //   }
+  // };
 
 }
 
