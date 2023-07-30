@@ -5,6 +5,7 @@ const router = express.Router();
 
 router
   .get("/tecnologia", TecnologiaController.listarTecnologias)
+  .get("/tecnologia/:id",TecnologiaController.pegarTecnologias)
   .post("/tecnologia", TecnologiaController.cadastrarTecnologia);
   
 
