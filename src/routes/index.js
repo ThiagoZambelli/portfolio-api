@@ -1,6 +1,8 @@
 import express from "express";
 import TecnologiasRoutes from "./TecnologiasRoutes.js";
-import ProjetoController from "./ProjetosRoutes.js";
+import ProjetosRoutes from "./ProjetosRoutes.js";
+import CertificadoRoutes from "./CertificadosRoutes.js";
+import FormacaoRoutes from "./FormacoesRoutes.js";
 
 const routes = (app) => {
   app.route("/").get((req, res) => {
@@ -9,7 +11,9 @@ const routes = (app) => {
   app.use(
     express.json(),
     TecnologiasRoutes,
-    ProjetoController   
+    ProjetosRoutes,
+    CertificadoRoutes,
+    FormacaoRoutes
   );
 };
 
